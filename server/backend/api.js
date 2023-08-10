@@ -1,4 +1,4 @@
-const { user } = require('../models/food')
+const { user } = require('../models/user')
 const mongoose = require('mongoose');
 const { main } = require('./database.js');
 
